@@ -77,9 +77,7 @@ The SolarWinds cyberattack was a sophisticated supply chain attack that occurred
 
 ## 📄 Contents
 
-- `SolarWinds_Case_Study.txt` — Full written report
-- `TTPs_Mapped.md` — MITRE ATT&CK mapping
-- `CIA_Impact.md` — Analysis of impact on the Confidentiality, Integrity, Availability model
+- `SolarWinds Supply Chain Attack.docx` — Full written report
 
 
 ## 📚 References
